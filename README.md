@@ -1,6 +1,6 @@
 https://user-images.githubusercontent.com/76899211/149826549-4e27b3a4-cda5-46e5-bc47-9d9fd94940fa.mp4
 
-<img src="Rainbow.gif" width="100%">
+<img src="Assets/Rainbow.gif" width="100%">
 
 # Hi, I'm Sanjay a.k.a M3BIONIX
 
