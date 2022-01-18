@@ -40,8 +40,8 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 
 
 <div>
-  <img src="Gradients.png" alt="Gradients" width="100%">
+  <img src="Assets/Gradients.png" alt="Gradients" width="100%">
 </div>
 
-<img src="Rainbow.gif" width="100%">
+<img src="Assets/Rainbow.gif" width="100%">
 
