@@ -28,6 +28,12 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 
 [![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3BIONIX)](https://github.com/m3bionix)
 
+<div>
+  <img src="https:/github-readme-stats-gray-omega.vercel.app/api/top-langs/?username=m3bionix&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+</div>
+
+
+
 <p align=center>
 <b> " Happiness can be found in the darkest of times when only one remembers to turn on the light "</b> <br>
  </p>
