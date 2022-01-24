@@ -14,10 +14,10 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 
 ## Tech Stack
 
-* 💻 C++ | C | Java | Python | Flutter | PyTorch 
+* 💻 C++ | C | Java | Python | Flutter | PyTorch | XML
 * 🛢️ mySQL | SQL Lite | MS SQL
 * ☁ AWS | GCP
-* 🎮 Unreal Engine
+* 📱 Android App Development
 
 <h3>🎶 Vibing to</h3>
  <img src="https://spotify-black-five.vercel.app/api/spotify" alt="Spotify Playing" width="350" />
