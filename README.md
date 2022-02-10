@@ -4,13 +4,14 @@ https://user-images.githubusercontent.com/76899211/149826549-4e27b3a4-cda5-46e5-
 
 # Hi, I'm Sanjay a.k.a M3BIONIX
 
-Hi, I'm Sanjay - a first year Computer Science student studying at College of Engineering, Chengannur. I like experimenting with new technologies, building small bots to chat with 
+Hi, I'm Sanjay - a first year Computer Science student studying at College of Engineering, Chengannur. I like experimenting with new technologies, building small bots , composing music and bunch of other stuff..
 
 ## Here's a list of things I currently keep myself busy with:
 
 * 🌱 Developing using **C, Java & Python**
 * 💼 I'm currently learning **C++, C, Python,Java & Machine Learning Algorithmss**
 * 🎵 I love listening to music as well as composing it.
+* 🎮 FPS Games : Valorant
 
 ## Tech Stack
 
