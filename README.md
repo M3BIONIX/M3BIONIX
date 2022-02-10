@@ -15,7 +15,6 @@ Hi, I'm Sanjay - a first year Computer Science student studying at College of En
 ## Tech Stack
 
 * 💻 C++ | C | Java | Python | Flutter | PyTorch | XML
-* 🛢️ mySQL | SQL Lite | MS SQL
 * ☁ AWS | GCP
 * 📱 Android App Development
 
