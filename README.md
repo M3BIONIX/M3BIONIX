@@ -8,8 +8,8 @@ Hi, I'm Sanjay - A first year CS student studying at College of Engineering, Che
 
 ## Here's a list of things I currently keep myself busy with:
 
-* 🌱 Developing using **C, Java & Python**
-* 💼 I'm currently learning **C++, C, Python,Java & Machine Learning Algorithms**
+* 🌱 Developing using **C, Java, Python, JavaScript**
+* 💼 I'm currently learning **JavaScript, C, Python,Java & Machine Learning Algorithms**
 * 🎵 I love listening to music as well as composing it.
 * 🎮 FPS Games : Valorant
 
@@ -24,20 +24,38 @@ Hi, I'm Sanjay - A first year CS student studying at College of Engineering, Che
 
 ## My GitHub Stats
 
+<img align = "left" src="https://github-readme-stats.vercel.app/api?username=M3BIONIX&show_icons=true&theme=radical" />
 
-[![Sanjay's GitHub stats](https://github-readme-stats1-mu.vercel.app/api/top-langs?username=M3BIONIX&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445)](https://github.com/m3bionix)
+<img align = "left" width = "30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3BIONIX&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+ 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
 <p align=center>
 <b> " Happiness can be found in the darkest of times when only one remembers to turn on the light "</b> <br>
- </p>
+</p>
 <p align=right>
 <b>                                                                              -Albus Dumbledore</b><br>
- </p>
- <p align=center>
- <a href="https://www.linkedin.com/in/sanjay-mathew34">LinkedIn</a> · <a href="mailto:sanjay.mathewofficial2020@gmail.com">Email</a> 
 </p>
+
+
+<p align=center>
+ <a href="https://www.linkedin.com/in/sanjay-mathew34">LinkedIn</a> · <a href="mailto:sanjay.mathewofficial2020@gmail.com">Email</a> 
+
 
 
 <div>
