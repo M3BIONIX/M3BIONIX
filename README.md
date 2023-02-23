@@ -4,20 +4,20 @@ https://user-images.githubusercontent.com/76899211/149826549-4e27b3a4-cda5-46e5-
 
 # Hi, I'm Sanjay a.k.a M3BIONIX
 
-Hi, I'm Sanjay - A first year CS student studying at College of Engineering, Chengannur. I like experimenting with new technologies, building small bots , composing music and bunch of other stuff..
+Hi, I'm Sanjay - A third year CS student studying at College of Engineering, Chengannur. I like experimenting with new technologies, building small bots and apps , composing music and bunch of other stuff..
 
 ## Here's a list of things I currently keep myself busy with:
 
-* 🌱 Developing using **C, Java, Python, JavaScript**
-* 💼 I'm currently learning **JavaScript, C, Python,Java & Machine Learning Algorithms**
+* 🌱 Developing using **C, Java, Python, JavaScript, React**
+* 💼 I'm currently learning **JavaScript, C, Python,Java, React Native**
 * 🎵 I love listening to music as well as composing it.
-* 🎮 FPS Games : Valorant
+* 🎮 FPS Games : Valorant, Overwatch
 
 ## Tech Stack
 
 * 💻 C++ | C | Java | Python | Flutter | PyTorch | XML
 * ☁ AWS | GCP
-* 📱 Android App Development
+* 📱 Android App Development using React Native
 
 <h3>🎶 Vibing to</h3>
  <img src="https://spotify-black-five.vercel.app/api/spotify" alt="Spotify Playing" width="350" />
