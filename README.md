@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/76899211/149826549-4e27b3a4-cda5-46e5-
 
 # Hi, I'm Sanjay a.k.a M3BIONIX
 
-Hi, I'm Sanjay - A third year CS student studying at College of Engineering, Chengannur. I like experimenting with new technologies, building small bots and apps , composing music and bunch of other stuff..
+Hi, I'm Sanjay - A fourth year CS student studying at College of Engineering, Chengannur. I like experimenting with new technologies, building small bots and apps , composing music and bunch of other stuff..
 
 ## Here's a list of things I currently keep myself busy with:
 
